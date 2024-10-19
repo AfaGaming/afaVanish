@@ -1,0 +1,5 @@
+com\afa\vanish\Commands\vanishCommand.class
+com\afa\vanish\Vanish.class
+com\afa\vanish\Commands\aCommand.class
+com\afa\vanish\Events\chestEvent.class
+com\afa\vanish\Events\joinEvent.class

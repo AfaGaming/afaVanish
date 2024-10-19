@@ -1,0 +1,4 @@
+# Should this plugin be enabled?
+plugin-enabled: true
+# Test message
+message: "Hello World!"
